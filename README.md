@@ -43,4 +43,4 @@ A beginner-friendly data analysis project exploring Netflix’s content library 
 - **Content Added Per Year**
 - **Top 10 Directors with Most Titles**
 
-All visualizations are created using clean and understandable bar charts (horizontal and vertical), following good data storytelling practices.
+All visualizations are created using clean and understandable bar charts (horizontal and vertical), following good data presenting practices.
