@@ -44,13 +44,3 @@ A beginner-friendly data analysis project exploring Netflix’s content library 
 - **Top 10 Directors with Most Titles**
 
 All visualizations are created using clean and understandable bar charts (horizontal and vertical), following good data storytelling practices.
-
----
-
-## 📂 Project Structure
-
-netflix-analysis/
-├── netflix_analysis.ipynb # Main notebook with code and visualizations
-├── netflix_titles.csv # Original dataset
-└── README.md # Project description and documentation
-
